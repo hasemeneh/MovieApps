@@ -4,7 +4,8 @@ package com.rivaldi.movieapps.Utils;
  * Created by Retrieving on 5/8/2016.
  */
 public class Constants {
-    private static String API_KEY = "api_key=c521053231c2f6129a0ba5f93f01cd2d";
+    //TODO put your API KEY here
+    private static String API_KEY = "api_key=Put your api key here";
     private static String BaseURL = "https://api.themoviedb.org/3";
     public static String BasePosterURL = "http://image.tmdb.org/t/p/w185/";
     private static String MOVIE = BaseURL + "/movie/";
